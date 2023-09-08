@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217291165630",
+    "project_id": "push-notification-7d38b",
+    "storage_bucket": "push-notification-7d38b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217291165630:android:5ecd0fce971357fbe1f3ef",
+        "android_client_info": {
+          "package_name": "com.starguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217291165630-57pfpl4jd1qq1bd8i074igssv3atnn6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPWutxcjoSvPHHBhaCevo5yVjrXsl4oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217291165630-57pfpl4jd1qq1bd8i074igssv3atnn6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

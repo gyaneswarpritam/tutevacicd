@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/Lato Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/Quicksand Regular.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "assets/fonts/Quicksand SemiBold.ttf",
+      "sha1": "43fdbf795bb0b7cc5b0d3dbcbdef0cdec0f29ca9"
+    }
+  ]
+}
